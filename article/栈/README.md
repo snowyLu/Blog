@@ -42,7 +42,7 @@
 
 然后我们利用es6的class的实现以上的方法
 新建一个stack.js文件
-```
+```js
 class Stack {
   constructor() {
     this.items = []; // 使用数组存储数据
@@ -90,7 +90,7 @@ class Stack {
 >+ 循环结束后，看栈的大小是否为0，如果不为0，就说明没有成对出现，为0，就说明全部抵消了。
 
 3.1.3 用栈来分析是不是觉得很简单呢，下面看代码实现
-```
+```js
 {
        function isDouuble(str) {
           const stack = new Stack();
@@ -127,7 +127,7 @@ class Stack {
 >+ 对于minStatck栈来说，它是要存储栈里最小的值，所以当minStack为空的时候，那么push进来的数据就是最小的；如果不为空，此时minStack栈顶的元素就是最小的，如果push进来的元素比栈顶的元素还小，直接push进来就行，这样minStack栈的栈顶始终都是栈里的最小值。
 
 3.2.3 代码实现 （时间复杂度为O(1)）
-```
+```js
  {
         class MinStack {
           constructor() {
