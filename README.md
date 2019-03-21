@@ -9,4 +9,4 @@
 
 ## 有你才完美
  自认很菜，创建了一个数据结构和算法的交流群，不限开发语言，前端后端，欢迎各位大佬入驻。
-![](https://user-gold-cdn.xitu.io/2019/3/20/1699baee38dffe49?w=674&h=896&f=jpeg&s=65567)
+![](https://user-gold-cdn.xitu.io/2019/3/21/1699e29d70c18d7e?w=240&h=319&f=jpeg&s=17452)
