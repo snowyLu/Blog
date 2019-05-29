@@ -8,7 +8,7 @@
 7. [JavaScript数据结构之链表--设计](https://github.com/snowyLu/Blog/tree/master/article/7-%E9%93%BE%E8%A1%A8%E4%B8%8B)
 8. [JavaScript算法之递归](https://github.com/snowyLu/Blog/tree/master/article/8-%E9%80%92%E5%BD%92)
 9. [面试分享上基础](https://github.com/snowyLu/Blog/tree/master/article/9-%E9%9D%A2%E8%AF%95%E5%88%86%E4%BA%AB%E4%B8%8A%E5%9F%BA%E7%A1%80)
-10. [面试分享下笔试](https://github.com/snowyLu/Blog/tree/master/article/9-%E9%9D%A2%E8%AF%95%E5%88%86%E4%BA%AB%E4%B8%8A%E5%9F%BA%E7%A1%80)
+10. [面试分享下笔试](https://github.com/snowyLu/Blog/tree/master/article/10-%E9%9D%A2%E8%AF%95%E5%88%86%E4%BA%AB%E4%B8%8B%E7%AC%94%E8%AF%95)
 ## 有你才完美
  自认很菜，创建了一个数据结构和算法的交流群，不限开发语言，前端后端，欢迎各位同学入驻。
 
